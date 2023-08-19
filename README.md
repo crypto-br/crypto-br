@@ -34,6 +34,7 @@
 <img align="center" alt="AWS Certified Developer – Associate" height="50" width="50" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">&nbsp;
 <img align="center" alt="AWS Certified Security – Specialty" height="50" width="50" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png">&nbsp;
 <img align="center" alt="Well-Architected Proficient" height="50" width="50" src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png">&nbsp;
+<img align="center" alt="AWS Community Builder" height="50" width="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ml2mnKPR--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2794/88da75b6-aadd-4ea1-8083-ae2dfca8be94.png">&nbsp;
 <img align="center" alt="AWS Cloud Praticioner" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlQu44_J2LK2-I59C5bb-oHMd1Iob0k_wIMMAsiPzpfodRAy_AHyd-mTDghNBQyQERPc&usqp=CAU">&nbsp;
 <img align="center" alt="AWS Cloud Praticioner" height="50" width="50" src="https://images.credly.com/size/340x340/images/82e6c305-31ca-4ea2-a82a-87deca12092e/CertiProf-Logo-Kanban_Foundations-KIKF.png">&nbsp;
 <img align="center" alt="Pythoh" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
