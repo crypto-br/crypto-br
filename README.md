@@ -28,7 +28,7 @@
   
  
 
-<h3>Certificações:</h3> 
+<h3>Badges:</h3> 
 <img align="center" alt="AWS Cloud Praticioner" height="50" width="50" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">&nbsp;
 <img align="center" alt="AWS Certified Solutions Architect – Associate" height="50" width="50" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">&nbsp;
 <img align="center" alt="AWS Certified Developer – Associate" height="50" width="50" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">&nbsp;
