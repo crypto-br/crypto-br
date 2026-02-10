@@ -25,32 +25,6 @@ Atualmente atuo como **Head de TI**, com foco em:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=crypto-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-br&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="left">
-  <img alt="AWS" height="40" src="img/aws-2.svg"/>
-  <img alt="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img alt="AWS Lambda" height="40" src="img/aws-lambda-1.svg"/>
-  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-  <img alt="Kubernetes" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
-  <img alt="Jenkins" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
-  <img alt="Terraform" height="40" src="https://w7.pngwing.com/pngs/274/556/png-transparent-hashicorp-terraform-logo-business-glassdoor-business-angle-service-rectangle.png"/>
-  <img alt="Debian" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
-  <img alt="Raspberry Pi" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"/>
-</p>
-
----
-
 ## 🏅 Certificações & Comunidade
 
 <p align="left">
