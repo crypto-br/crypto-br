@@ -1,19 +1,23 @@
 # Luiz Machado 👋
 
-🇧🇷 Brasil  
-☁️ Cloud | Security | DevSecOps | Serverless |
+🇧🇷 Brasil
+☁️ Cloud | Security | DevSecOps | Serverless
 
-👨‍💻 Head de TI, palestrante e fundador de comunidade (@gynsec)
+👨‍💻 Head de TI / Engenharia • AWS Community Builder (Security) • Speaker • Founder @gynsec
 
-Sou profissional de tecnologia com forte atuação em **Cloud AWS, Segurança da Informação, DevSecOps e Serverless**, liderando times, desenhando plataformas e apoiando empresas na construção de ambientes escaláveis, seguros e sustentáveis.
+Profissional de tecnologia com forte atuação em AWS, Segurança da Informação, DevSecOps e arquiteturas Serverless.
 
-Atualmente atuo como **Head de TI**, com foco em:
-- Arquiteturas Cloud (AWS)
-- Desenvolvimento
-- Segurança e Compliance
-- DevSecOps e automação
-- Plataforma e governança técnica
-- Desenvolvimento e evolução de pessoas
+Atuo liderando times, evoluindo plataformas e ajudando empresas a construírem ambientes escaláveis, seguros e sustentáveis, conectando estratégia de negócio com decisões técnicas.
+
+Foco atual:
+
+- Liderança e desenvolvimento de pessoas
+- Arquiteturas Cloud na AWS
+- Segurança, Compliance e DevSecOps
+- Plataformas e governança técnica
+- Engenharia de software e modernização
+- Automação e Serverless
+
 
 ---
 
@@ -33,7 +37,7 @@ Atualmente atuo como **Head de TI**, com foco em:
   <img alt="AWS Developer Associate" height="50" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/>
   <img alt="AWS Security Specialty" height="50" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"/>
   <img alt="AWS Community Builder" height="50" src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2794/88da75b6-aadd-4ea1-8083-ae2dfca8be94.png"/>
-  <img alt="Kanban Foundations" height="50" src="https://images.credly.com/size/340x340/images/82e6c305-31ca-4ea2-a82a-87deca12092e/CertiProf-Logo-Kanban_Foundations-KIKF.png"/>
+  
 </p>
 
 ---
